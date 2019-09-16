@@ -1,5 +1,5 @@
 # Contents of the Course
-* Data Types and Operators
+* Data Types & Operators
 * Data Structures
 * Control Flow
 * Functions
